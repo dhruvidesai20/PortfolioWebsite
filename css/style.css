@@ -634,6 +634,9 @@ textarea.input{
     .grid_container{
         width: 80%;
     }
+    #btn{
+        width: 50%;
+    }
     .dance_heading{
         font-size: 3rem;
     }
