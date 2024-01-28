@@ -1,7 +1,7 @@
 # PortfolioWebsite
 Welcome to my portfolio website! This repository contains the source code and assets for my personal portfolio.
 
-# overview
+# Overview
 This website serves as a showcase of my skills, projects and hobbies. It is designed to provide visitors an overview about me and my work.
 # Features
 
