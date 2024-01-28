@@ -589,6 +589,10 @@ textarea.input{
 }
 
 @media screen and (max-width: 650px){
+    section{
+        min-height: auto;
+        height: auto;
+    }
     .home_img{
         width: 70%;
     }
