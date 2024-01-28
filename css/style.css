@@ -634,6 +634,12 @@ textarea.input{
     .grid_container{
         width: 80%;
     }
+    .dance_heading{
+        font-size: 3rem;
+    }
+    .dance_img{
+        height: 300px;
+    }
     .danceImg_container{
         bottom: 2%;
     }
